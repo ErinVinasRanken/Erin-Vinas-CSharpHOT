@@ -1,0 +1,7 @@
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT1-2\bin\Debug\HOT1-2.exe.config
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT1-2\bin\Debug\HOT1-2.exe
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT1-2\bin\Debug\HOT1-2.pdb
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT1-2\obj\Debug\HOT1-2.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT1-2\obj\Debug\HOT1-2.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT1-2\obj\Debug\HOT1-2.exe
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT1-2\obj\Debug\HOT1-2.pdb
