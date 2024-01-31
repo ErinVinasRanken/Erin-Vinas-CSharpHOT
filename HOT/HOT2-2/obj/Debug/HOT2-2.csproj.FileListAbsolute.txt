@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\bin\Debug\HOT2-2.exe.config
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\bin\Debug\HOT2-2.exe
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\bin\Debug\HOT2-2.pdb
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\obj\Debug\HOT2-2.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\obj\Debug\HOT2_2.frmLetterGrade.resources
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\obj\Debug\HOT2_2.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\obj\Debug\HOT2-2.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\obj\Debug\HOT2-2.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\obj\Debug\HOT2-2.exe
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT2-2\obj\Debug\HOT2-2.pdb
