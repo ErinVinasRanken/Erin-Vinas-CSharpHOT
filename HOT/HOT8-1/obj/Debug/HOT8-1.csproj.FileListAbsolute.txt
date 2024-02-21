@@ -1,0 +1,10 @@
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\obj\Debug\HOT8-1.csproj.AssemblyReference.cache
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\obj\Debug\HOT8_1.frmAddressBook.resources
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\obj\Debug\HOT8_1.Properties.Resources.resources
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\obj\Debug\HOT8-1.csproj.GenerateResource.cache
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\obj\Debug\HOT8-1.csproj.CoreCompileInputs.cache
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\bin\Debug\HOT8-1.exe.config
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\bin\Debug\HOT8-1.exe
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\bin\Debug\HOT8-1.pdb
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\obj\Debug\HOT8-1.exe
+C:\Users\rinla\OneDrive\Desktop\EBVinasHOTs\HOT\HOT8-1\obj\Debug\HOT8-1.pdb
