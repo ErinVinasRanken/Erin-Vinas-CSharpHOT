@@ -1,0 +1,10 @@
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\bin\Debug\HOT9-11.exe.config
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\bin\Debug\HOT9-11.exe
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\bin\Debug\HOT9-11.pdb
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\obj\Debug\HOT9-11.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\obj\Debug\HOT9_11.frmCardStore.resources
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\obj\Debug\HOT9_11.Properties.Resources.resources
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\obj\Debug\HOT9-11.csproj.GenerateResource.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\obj\Debug\HOT9-11.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\obj\Debug\HOT9-11.exe
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\HOT9-11\obj\Debug\HOT9-11.pdb
