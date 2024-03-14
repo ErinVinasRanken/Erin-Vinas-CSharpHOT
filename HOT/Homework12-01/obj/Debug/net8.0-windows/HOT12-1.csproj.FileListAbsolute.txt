@@ -1,0 +1,17 @@
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\bin\Debug\net8.0-windows\HOT12-1.exe
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\bin\Debug\net8.0-windows\HOT12-1.deps.json
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\bin\Debug\net8.0-windows\HOT12-1.runtimeconfig.json
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\bin\Debug\net8.0-windows\HOT12-1.dll
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\bin\Debug\net8.0-windows\HOT12-1.pdb
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\Homework12_01.frmPassworkCrack.resources
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.csproj.GenerateResource.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.AssemblyInfoInputs.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.AssemblyInfo.cs
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.sourcelink.json
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.dll
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\refint\HOT12-1.dll
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.pdb
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\HOT12-1.genruntimeconfig.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\Homework12-01\obj\Debug\net8.0-windows\ref\HOT12-1.dll
