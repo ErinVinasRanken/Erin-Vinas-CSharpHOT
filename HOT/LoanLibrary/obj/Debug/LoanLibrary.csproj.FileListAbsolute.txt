@@ -1,0 +1,6 @@
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\LoanLibrary\bin\Debug\LoanLibrary.dll
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\LoanLibrary\bin\Debug\LoanLibrary.pdb
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\LoanLibrary\obj\Debug\LoanLibrary.csproj.AssemblyReference.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\LoanLibrary\obj\Debug\LoanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\LoanLibrary\obj\Debug\LoanLibrary.dll
+C:\Users\rinla\Desktop\EBVinasHOTs\HOT\LoanLibrary\obj\Debug\LoanLibrary.pdb
